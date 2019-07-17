@@ -31,7 +31,8 @@ network rearranges/heals itself dynamically every time any node disappears (we e
 
  
 Fig1 : A high-level representation of of the network 
-![](ESP8266_adhoc.png)
+![](/ESP8266_adhoc.png)
+
 # Approach
 Detailed description of what we did and why we made particular choices? Our approach requires that each device in 
 the network hold distance information about all devices that connect to it via its access point as well as information 
